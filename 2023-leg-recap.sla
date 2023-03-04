@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="6" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Chilanka Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Chilanka Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="5" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="672" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1324" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1976" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2628" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="4" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3280" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="18.144" BORDERRIGHT="18.144" BORDERTOP="18.144" BORDERBOTTOM="18.144" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="514" YPOS="38.144" OwnPage="0" ItemID="672311118" PTYPE="4" WIDTH="360" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L360 0 L360 576 L0 576 L0 0 Z" copath="M0 0 L360 0 L360 576 L0 576 L0 0 Z" gXpos="514.0008" gYpos="38.1456" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="672277534" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONTSIZE="16" CH="South Dakota Youth Activism's"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONTSIZE="32" CH="2023 Legislative Recap"/>
+                <para ALIGN="1" LINESP="23"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Table of Contents"/>
+                <para ALIGN="1" LINESP="20"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="16" CH="Foreword.....................................................................................2"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="HB 1125...........................................................................................3"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="HB 1116.............................................................................................3"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="HB 1070..........................................................................................4"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="HB 1163...........................................................................................4"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="HB 1080..........................................................................................5"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="Trans Day of Visibility...........................................................7"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="SB 6................................................................................................8"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="SB 165............................................................................................9"/>
+                <para ALIGN="3" LINESP="35"/>
+                <ITEXT FONTSIZE="16" CH="SB 191..............................................................................................10"/>
+                <para ALIGN="3" LINESP="35"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT CH="SDYA Executive Director: Elliott Morehead"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT CH="SDYA Marketing Director: Perci Ereth"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT CH="SDYA Publications Director: Ryott Glayzer"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Foreword"/>
+                <para ALIGN="1" LINESP="24"/>
+                <ITEXT CH="by Perci Ereth"/>
+                <para ALIGN="1" LINESP="24"/>
+                <para ALIGN="3" LINESP="15"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="The legislative session started with a flurry of bills - both good and bad. Bills to codify ICWA, protect the rights of pregnant people, support disabled South Dakotans, and advance the support for mental health and substance abuse treatment died, but so did bills to ban drag shows. Passed were bills of our concern - HB1080 being our biggest worry, as well as bills to restrict the voting rights of South Dakotans. "/>
+                <para ALIGN="0" LINESP="16"/>
+                <para ALIGN="0" LINESP="16"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="SDYA fought long and hard before the day all bills must have passed from their original chamber, with social media updates, our directors relentlessly emailing,attending cracker barrels and legislative coffees, and our founder Elliiott Morehead testifying to the House Health and Human Services committee in opposition to HB1080. Our directors Perci Ereth, Elliott, and member Ayden {name} attended Equality South Dakota’s Visibility Day at the Capitol Rotunda no more than a week after the passing of HB1080. There, the group met with legislators, networked with other nonprofits, and connected with other young South Dakotans. Protests that were held across the state after the passing of HB1080 were held by the Transformation Project Advocacy Network, Black Hills Center for Equality, and many more, including SDYA. Director Perci’s signs made the local news in Rapid City, made from a place of anguish and reflection of the loss."/>
+                <para ALIGN="0" LINESP="16"/>
+                <para ALIGN="0" LINESP="16"/>
+                <tab FONTSIZE="13"/>
+                <ITEXT FONTSIZE="13" CH="While we had wins and losses, SDYA is still here, strong as ever, and determined to spark change in South Dakota. "/>
+                <para ALIGN="0" LINESP="16"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="House Bill 1125"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="House Bill 1116"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="House Bill 1070"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="House Bill 1163"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="House Bill 1080"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Trans Day of Visibility"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Senate Bill 6"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Senate Bill 165"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <ITEXT FONTSIZE="24" CH="Senate Bill 191"/>
+                <para ALIGN="1" LINESP="30"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="3" LINESP="15"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1" LINESP="21"/>
+                <ITEXT FONTSIZE="16" CH="This zine was published by"/>
+                <para ALIGN="1" LINESP="21"/>
+                <ITEXT FONTSIZE="16" CH="South Dakota Youth Activism."/>
+                <para ALIGN="1" LINESP="21"/>
+                <ITEXT FONTSIZE="16" CH="For more information on"/>
+                <para ALIGN="1" LINESP="21"/>
+                <ITEXT FONTSIZE="16" CH="who we are and what we do,"/>
+                <para ALIGN="1" LINESP="21"/>
+                <ITEXT FONTSIZE="16" CH="please visit us at www.SDYA.org"/>
+                <para ALIGN="1" LINESP="21"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.144" YPOS="38.144" OwnPage="0" ItemID="675168270" PTYPE="4" WIDTH="360" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 576 L0 576 L0 0 Z" copath="M0 0 L360 0 L360 576 L0 576 L0 0 Z" gXpos="118.1448" gYpos="38.1456" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="672322334"/>
+        <PAGEOBJECT XPOS="514" YPOS="690" OwnPage="1" ItemID="672322334" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="514.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675168270" BACKITEM="672306046"/>
+        <PAGEOBJECT XPOS="118" YPOS="690" OwnPage="1" ItemID="672277534" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="118.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675281166" BACKITEM="672311118"/>
+        <PAGEOBJECT XPOS="118" YPOS="1248" OwnPage="1" ItemID="672268654" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675239054" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CH="1"/>
+                <para/>
+                <ITEXT CH="2"/>
+                <para/>
+                <ITEXT CH="3"/>
+                <para/>
+                <ITEXT CH="4"/>
+                <para/>
+                <ITEXT CH="5"/>
+                <para/>
+                <ITEXT CH="6"/>
+                <para/>
+                <ITEXT CH="7"/>
+                <para/>
+                <ITEXT CH="8"/>
+                <para/>
+                <ITEXT CH="9"/>
+                <para/>
+                <ITEXT CH="10"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="514" YPOS="1248" OwnPage="1" ItemID="675257406" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="514.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="672332878"/>
+        <PAGEOBJECT XPOS="514" YPOS="1342" OwnPage="2" ItemID="675281166" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="514.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675242494" BACKITEM="672277534"/>
+        <PAGEOBJECT XPOS="118" YPOS="1342" OwnPage="2" ItemID="672306046" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="118.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="672322334" BACKITEM="675218670"/>
+        <PAGEOBJECT XPOS="118" YPOS="1900" OwnPage="2" ItemID="672332878" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675257406" BACKITEM="675330446"/>
+        <PAGEOBJECT XPOS="514" YPOS="1900" OwnPage="2" ItemID="675239054" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="514.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675344830" BACKITEM="672268654"/>
+        <PAGEOBJECT XPOS="514" YPOS="1994" OwnPage="3" ItemID="675218670" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="514.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="672306046" BACKITEM="675287726"/>
+        <PAGEOBJECT XPOS="118" YPOS="1994" OwnPage="3" ItemID="675242494" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="118.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675322526" BACKITEM="675281166"/>
+        <PAGEOBJECT XPOS="118" YPOS="2552" OwnPage="3" ItemID="675344830" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675297294" BACKITEM="675239054"/>
+        <PAGEOBJECT XPOS="514" YPOS="2552" OwnPage="3" ItemID="675330446" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="514.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="672332878" BACKITEM="675338942"/>
+        <PAGEOBJECT XPOS="514" YPOS="2646" OwnPage="4" ItemID="675322526" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="514.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675387662" BACKITEM="675242494"/>
+        <PAGEOBJECT XPOS="118" YPOS="2646" OwnPage="4" ItemID="675287726" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="118.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675218670" BACKITEM="675396670"/>
+        <PAGEOBJECT XPOS="118" YPOS="3204" OwnPage="4" ItemID="675338942" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675330446" BACKITEM="675315246"/>
+        <PAGEOBJECT XPOS="514" YPOS="3204" OwnPage="4" ItemID="675297294" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="514.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675413150" BACKITEM="675344830"/>
+        <PAGEOBJECT XPOS="514" YPOS="3298" OwnPage="5" ItemID="675396670" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="514.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675287726" BACKITEM="675387662"/>
+        <PAGEOBJECT XPOS="118" YPOS="3298" OwnPage="5" ItemID="675387662" PTYPE="4" WIDTH="360" HEIGHT="558" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 558 L0 558 L0 0 Z" copath="M0 0 L360 0 L360 558 L0 558 L0 0 Z" gXpos="118.0008" gYpos="-141.9952" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675396670" BACKITEM="675322526"/>
+        <PAGEOBJECT XPOS="118" YPOS="3856" OwnPage="5" ItemID="675413150" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675315246" BACKITEM="675297294"/>
+        <PAGEOBJECT XPOS="514" YPOS="3856" OwnPage="5" ItemID="675315246" PTYPE="4" WIDTH="360" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 18 L0 18 L0 0 Z" copath="M0 0 L360 0 L360 18 L0 18 L0 0 Z" gXpos="514.0008" gYpos="416.0016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="675338942" BACKITEM="675413150"/>
+        <PAGEOBJECT XPOS="514.867924528302" YPOS="121.018867924528" OwnPage="0" ItemID="675306574" PTYPE="2" WIDTH="357.735849056604" HEIGHT="295.981132075472" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.372641509433962" LOCALSCY="0.372641509433962" LOCALX="0" LOCALY="-400.303797468355" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="photo_2023-02-22_16-26-44.jpg" IRENDER="0" EMBEDDED="0" LOCK="1" path="M0 0 L357.736 0 L357.736 295.981 L0 295.981 L0 0 Z" copath="M0 0 L357.736 0 L357.736 295.981 L0 295.981 L0 0 Z" gXpos="514.867924528302" gYpos="121.018867924528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="170.905660377359" YPOS="300.735849056604" OwnPage="0" ItemID="675356046" PTYPE="2" WIDTH="262.584905660377" HEIGHT="258.924528301887" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.86308176100629" LOCALSCY="0.86308176100629" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="WebsiteQRCode.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" LOCK="1" path="M0 0 L262.585 0 L262.585 258.925 L0 258.925 L0 0 Z" copath="M0 0 L262.585 0 L262.585 258.925 L0 258.925 L0 0 Z" gXpos="170.905660377359" gYpos="300.735849056604" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="616.396226415094" YPOS="512.037735849057" OwnPage="0" ItemID="675366078" PTYPE="2" WIDTH="156.566037735849" HEIGHT="116.037735849057" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.264322860704002" LOCALSCY="0.264322860704002" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="SDYA_Tabling_slides-removebg-preview.png" IRENDER="0" EMBEDDED="0" LOCK="1" path="M0 0 L156.566 0 L156.566 116.038 L0 116.038 L0 0 Z" copath="M0 0 L156.566 0 L156.566 116.038 L0 116.038 L0 0 Z" gXpos="616.396226415094" gYpos="512.037735849057" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="518.490566037736" YPOS="424.150943396226" OwnPage="0" ItemID="675358014" PTYPE="4" WIDTH="352.301886792453" HEIGHT="85.1320754716982" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L352.302 0 L352.302 85.1321 L0 85.1321 L0 0 Z" copath="M0 0 L352.302 0 L352.302 85.1321 L0 85.1321 L0 0 Z" gXpos="518.490566037736" gYpos="424.150943396226" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESP="17"/>
+                <ITEXT FONTSIZE="16" CH="A look at this year's legislative session and the political action SDYA took to mitigate harm from discriminatory legislation"/>
+                <trail ALIGN="1" LINESP="17"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="125.433962264151" YPOS="2067.92452830189" OwnPage="3" ItemID="667342942" PTYPE="4" WIDTH="343.566037735849" HEIGHT="136.754716981132" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L343.566 0 L343.566 136.755 L0 136.755 L0 0 Z" copath="M0 0 L343.566 0 L343.566 136.755 L0 136.755 L0 0 Z" gXpos="125.433962264151" gYpos="2067.92452830189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="15" CH="HB 1125 would have added drag to the list of events minors are banned from. it was tabled and effectively failed on 02-13-2023"/>
+                <trail LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130.056603773585" YPOS="2248.15094339623" OwnPage="3" ItemID="667668702" PTYPE="4" WIDTH="337.811320754717" HEIGHT="293.433962264151" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.811 0 L337.811 293.434 L0 293.434 L0 0 Z" copath="M0 0 L337.811 0 L337.811 293.434 L0 293.434 L0 0 Z" gXpos="130.056603773585" gYpos="2248.15094339623" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="15" CH="HB1116 originally targeted drag at South Dakota schools and universities. It was later amended to “ban the use of state resources to host lewd and lascivious content”, and strikes language related to drag. It failed on 03-02-2023."/>
+                <para LINESP="19"/>
+                <ITEXT FONTSIZE="15" CH="The bill originated from social media doctoring and rumors about the annual drag show hosted by the SDSU GSA. This yeah, he drag show was family-friendly, but footage from years past from 18+ shows surfaced and became misinterpreted as being the 2022 event. No state funds were used to put on the event, as it was held in the Student Union, and paid for by the GSA and the student activity fees each student pays to fund programs and keep the Student Union running."/>
+                <trail LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="521.207547169811" YPOS="2721.81132075472" OwnPage="4" ItemID="669007486" PTYPE="4" WIDTH="345.056603773585" HEIGHT="282.566037735849" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.057 0 L345.057 282.566 L0 282.566 L0 0 Z" copath="M0 0 L345.057 0 L345.057 282.566 L0 282.566 L0 0 Z" gXpos="521.207547169811" gYpos="2721.81132075472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="15" CH="HB1070 would create a &quot;Center for American Exceptionalism&quot; on the BHSU Campus. This is a bill of concern because of language implying conservative and potentially nationalistic values through a biased civics education. The bill plans to center around the &quot;We The People&quot; program, a curriculum and debate component focusing on interpreting the constitution and its implications in American society. This program does not heavily focus on how government works or social issues affecting minorities. The center at Black Hills State would develop new curriculum for the state, and likely lead to a skewed opinion in the curriculum."/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.037735849057" YPOS="45.9622641509434" OwnPage="0" ItemID="683616766" PTYPE="2" WIDTH="165.22641509434" HEIGHT="118.641509433962" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.270254007822237" LOCALSCY="0.270254007822237" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="SDYA_Tabling_slides-removebg-preview.png" IRENDER="0" EMBEDDED="0" LOCK="1" path="M0 0 L165.226 0 L165.226 118.642 L0 118.642 L0 0 Z" copath="M0 0 L165.226 0 L165.226 118.642 L0 118.642 L0 0 Z" gXpos="221.037735849057" gYpos="45.9622641509434" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="526.641509433962" YPOS="3039.69811320755" OwnPage="4" ItemID="687571822" PTYPE="4" WIDTH="340.528301886792" HEIGHT="164.301886792453" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L340.528 0 L340.528 164.302 L0 164.302 L0 0 Z" copath="M0 0 L340.528 0 L340.528 164.302 L0 164.302 L0 0 Z" gXpos="526.641509433962" gYpos="3039.69811320755" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="16" CH="HB1163 looked to  create a way to report and review books anyone found “obscene” and  lead to censorship and especially target minority representation and stories. Major education organizations across the state testified against it, which led to the bill being killed 02-08-2023."/>
+                <trail LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="129.962264150943" YPOS="3364.83018867925" OwnPage="5" ItemID="668077662" PTYPE="4" WIDTH="336" HEIGHT="489.056603773584" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L336 0 L336 489.057 L0 489.057 L0 0 Z" copath="M0 0 L336 0 L336 489.057 L0 489.057 L0 0 Z" gXpos="129.962264150943" gYpos="3364.83018867925" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="16" CH="HB1080 was South Dakota's flagship anti-trans bill this year. It aimed to prohibit access to life-saving HRT to anyone under the age of 18."/>
+                <trail LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

@@ -266,5 +266,39 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.144" YPOS="710.144" OwnPage="1" ItemID="1106818763" PTYPE="4" WIDTH="359.813446808511" HEIGHT="29.7708936170214" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L359.813 0 L359.813 29.7709 L0 29.7709 L0 0 Z" copath="M0 0 L359.813 0 L359.813 29.7709 L0 29.7709 L0 0 Z" gXpos="118.144" gYpos="710.144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FreeMono Bold" FONTSIZE="26" CH="Table of Contents"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.144" YPOS="762.127659574468" OwnPage="1" ItemID="1109126123" PTYPE="4" WIDTH="362.111319148936" HEIGHT="425.106382978723" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.111 0 L362.111 425.106 L0 425.106 L0 0 Z" copath="M0 0 L362.111 0 L362.111 425.106 L0 425.106 L0 0 Z" gXpos="118.144" gYpos="762.127659574468" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="FreeMono Regular"/>
+                <ITEXT CH="Preface.........................................2"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="514.723404255319" YPOS="1354.144" OwnPage="2" ItemID="1085099771" PTYPE="4" WIDTH="359.132595744681" HEIGHT="29.9411063829789" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L359.133 0 L359.133 29.9411 L0 29.9411 L0 0 Z" copath="M0 0 L359.133 0 L359.133 29.9411 L0 29.9411 L0 0 Z" gXpos="514.723404255319" gYpos="1354.144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FreeMono Bold" FONTSIZE="26" CH="Preface"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="514.723404255319" YPOS="1433" OwnPage="2" ItemID="960618763" PTYPE="4" WIDTH="359.132595744681" HEIGHT="448.659574468085" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L359.133 0 L359.133 448.66 L0 448.66 L0 0 Z" copath="M0 0 L359.133 0 L359.133 448.66 L0 448.66 L0 0 Z" gXpos="514.723404255319" gYpos="1433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FreeMono Regular" CH="The legislative session started with a flurry of bills - both good and bad. Bills to codify ICWA, protect the rights of pregnant people, support disabled South Dakotans, and advance the support for mental health and substance abuse treatment died, but so did bills to ban drag shows. Passed were bills of our concern - HB1080 being our biggest worry, as well as bills to restrict the voting rights of South Dakotans. "/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT FONT="FreeMono Regular" CH="SDYA fought long and hard before the day all bills must have passed from their original chamber, with social media updates, our directors relentlessly emailing, attending cracker barrels and legislative coffees, and our founder Elliiott Morehead testifying to the House Health and Human Services committee in opposition to HB1080. Our director Perci Ereth, Elliott, and member Ayden attended Equality South Dakota’s Visibility Day at the Capitol Rotunda no more than a week after the passing of HB1080. There, the group met with legislators, networked with other nonprofits, and connected with other young South Dakotans. Protests that were held across the state after the passing of HB1080 were held by the Transformation Project Advocacy Network, Black Hills Center for Equality, and many more, including SDYA. Director Perci’s signs made the local news in Rapid City, made from a place of anguish and reflection of the loss."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT FONT="FreeMono Regular" CH="While we had wins and losses, SDYA is still here, strong as ever, and determined to spark change in South Dakota. "/>
+                <para LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>

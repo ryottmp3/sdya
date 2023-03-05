@@ -262,8 +262,8 @@
         <PAGEOBJECT XPOS="175.404255319149" YPOS="137.106382978723" OwnPage="0" ItemID="1098129883" PTYPE="4" WIDTH="256.595744680851" HEIGHT="103.404255319149" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.596 0 L256.596 103.404 L0 103.404 L0 0 Z" copath="M0 0 L256.596 0 L256.596 103.404 L0 103.404 L0 0 Z" gXpos="175.404255319149" gYpos="137.106382978723" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="FreeMono Bold" FONTSIZE="15" CH="This Zine was published and distributed by South Dakota Youth Activism. For more information, please visit our website or scan the code below:"/>
-                <trail ALIGN="1"/>
+                <ITEXT CH="This Zine was published and distributed by South Dakota Youth Activism. "/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
